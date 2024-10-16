@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "title": "Computadora gamer",
+    "description": "Computadora gamer de gama alta, con un alto rendimiento preparada para videojuegos",
+    "code": "compu123",
+    "price": 1500000,
+    "stock": 3,
+    "category": "Computadoras",
+    "thumbnails": [
+      "https://electropc.com.ar/wp-content/uploads/DISENO-AVANZADO-PAGINA-jpg.webp"
+    ],
+    "status": true
+  },
+  {
+    "id": 2,
+    "title": "Teclado Mecánico RGB",
+    "description": "Teclado mecánico con iluminación RGB y switches de alta durabilidad, perfecto para gaming y escritura.",
+    "code": "keyboard001",
+    "price": 12000,
+    "stock": 15,
+    "category": "Teclados",
+    "thumbnails": [],
+    "status": true
+  },
+  {
+    "id": 3,
+    "title": "Monitor UltraWide 34''",
+    "description": "Monitor UltraWide de 34 pulgadas con resolución QHD, ideal para trabajo multitarea y gaming.",
+    "code": "monitor001",
+    "price": 85000,
+    "stock": 5,
+    "category": "Monitores",
+    "thumbnails": [],
+    "status": true
+  },
+  {
+    "id": 4,
+    "title": "Mouse Gamer 16000 DPI",
+    "description": "Mouse gamer con sensor óptico de 16000 DPI, botones programables y retroiluminación RGB.",
+    "code": "mouse001",
+    "price": 4500,
+    "stock": 20,
+    "category": "Mouses",
+    "thumbnails": [],
+    "status": true
+  },
+  {
+    "id": 5,
+    "title": "Gabinete ATX con Ventana",
+    "description": "Gabinete ATX con ventana lateral de vidrio templado y soporte para refrigeración líquida.",
+    "code": "case001",
+    "price": 7000,
+    "stock": 8,
+    "category": "Gabinetes",
+    "thumbnails": [],
+    "status": true
+  },
+  {
+    "id": 6,
+    "title": "Mouse Gamer 16000 DPI",
+    "description": "Mouse gamer con sensor óptico de 16000 DPI, botones programables y retroiluminación RGB.",
+    "code": "mouse001",
+    "price": 4500,
+    "stock": 20,
+    "category": "Mouses",
+    "thumbnails": [],
+    "status": true
+  },
+  {
+    "id": 7,
+    "title": "Memoria RAM 16GB DDR4",
+    "description": "Memoria RAM DDR4 de 16GB con frecuencia de 3200MHz, ideal para gaming y multitarea.",
+    "code": "ram001",
+    "price": 10000,
+    "stock": 25,
+    "category": "Memorias RAM",
+    "thumbnails": [],
+    "status": true
+  },
+  {
+    "id": 8,
+    "title": "SSD 1TB NVMe",
+    "description": "Disco duro sólido NVMe de 1TB con velocidad de lectura de hasta 3500MB/s.",
+    "code": "ssd001",
+    "price": 18000,
+    "stock": 12,
+    "category": "Almacenamiento",
+    "thumbnails": [],
+    "status": true
+  },
+  {
+    "id": 9,
+    "title": "Placa de Video RTX 3070",
+    "description": "Tarjeta gráfica NVIDIA RTX 3070 con 8GB de VRAM GDDR6, ideal para gaming en 4K.",
+    "code": "gpu001",
+    "price": 250000,
+    "stock": 3,
+    "category": "Placas de Video",
+    "thumbnails": [],
+    "status": true
+  }
+]
